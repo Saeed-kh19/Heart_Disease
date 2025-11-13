@@ -1,0 +1,6 @@
+Histograms: age shows a roughly normal distribution skewed slightly older; chol and oldpeak show right skew.
+Boxplots: chol and oldpeak contain clear high-value outliers worth checking before imputation.
+Q-Q plots: chol deviates from normal in the right tail; oldpeak shows substantial non-normality.
+Correlation heatmap: thalach and age show moderate correlation patterns with target; check exact values in heatmap.
+Countplots: class imbalance visible if one target class dominates; also validate sex and cp distributions.
+Pairplot: relationships between age, thalach, and oldpeak differ between target classes (inspect saved figure).

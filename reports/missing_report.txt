@@ -1,0 +1,15 @@
+column,missing_count,missing_percent
+age,51,4.976%
+trestbps,51,4.976%
+ca,51,4.976%
+thal,51,4.976%
+thalach,17,1.659%
+chol,13,1.268%
+oldpeak,1,0.098%
+fbs,0,0.0%
+sex,0,0.0%
+cp,0,0.0%
+exang,0,0.0%
+restecg,0,0.0%
+slope,0,0.0%
+target,0,0.0%
