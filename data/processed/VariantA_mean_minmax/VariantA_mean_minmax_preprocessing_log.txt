@@ -1,0 +1,10 @@
+variant_name: VariantA_mean_minmax
+numeric_imputation: mean
+categorical_imputation: mode
+scaler: minmax
+numeric_columns: ['age', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']
+categorical_columns: []
+binary_columns_preserved: ['sex', 'fbs', 'exang', 'target']
+processed_csv: data\processed\VariantA_mean_minmax\VariantA_mean_minmax_processed.csv
+artifact_dir: data\processed\VariantA_mean_minmax
+seed: 42

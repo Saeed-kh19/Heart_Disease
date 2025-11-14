@@ -1,0 +1,6 @@
+{
+  "n_train": 820,
+  "n_test": 205,
+  "train_idx_path": "train_idx.npy",
+  "test_idx_path": "test_idx.npy"
+}

@@ -1,0 +1,10 @@
+variant_name: VariantB_median_standard
+numeric_imputation: median
+categorical_imputation: mode
+scaler: standard
+numeric_columns: ['age', 'cp', 'trestbps', 'chol', 'restecg', 'thalach', 'oldpeak', 'slope', 'ca', 'thal']
+categorical_columns: []
+binary_columns_preserved: ['sex', 'fbs', 'exang', 'target']
+processed_csv: data\processed\VariantB_median_standard\VariantB_median_standard_processed.csv
+artifact_dir: data\processed\VariantB_median_standard
+seed: 42
