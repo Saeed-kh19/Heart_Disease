@@ -1,0 +1,3 @@
+Scaler impact summary:
+- VariantA_mean_minmax: mean pairwise distance before scaling = N/A; after scaling = 1.4112
+- VariantB_median_standard: mean pairwise distance before scaling = N/A; after scaling = 4.4207

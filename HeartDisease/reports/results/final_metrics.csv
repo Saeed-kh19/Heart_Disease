@@ -1,0 +1,7 @@
+preprocessing_variant,K,accuracy,precision,recall,f1,n_test,confusion_matrix_png,model_pickle
+VariantA_mean_minmax,3,0.9609756097560976,0.961904761904762,0.961904761904762,0.961904761904762,205,reports\figs\VariantA_mean_minmax_confusion_matrix.png,reports\results\VariantA_mean_minmax_knn_k3_model.pkl
+VariantB_median_standard,3,0.946341463414634,0.9351851851851852,0.961904761904762,0.9483568075117372,205,reports\figs\VariantB_median_standard_confusion_matrix.png,reports\results\VariantB_median_standard_knn_k3_model.pkl
+VariantA_mean_minmax,3,0.9609756097560976,0.960952380952381,0.960952380952381,0.960952380952381,205,reports\figs\VariantA_mean_minmax_confusion_matrix.png,reports\results\VariantA_mean_minmax_knn_k3_model.pkl
+VariantB_median_standard,3,0.946341463414634,0.9469740358915616,0.945952380952381,0.9462596220299802,205,reports\figs\VariantB_median_standard_confusion_matrix.png,reports\results\VariantB_median_standard_knn_k3_model.pkl
+VariantA_mean_minmax,3,0.9707317073170731,0.9706834189986675,0.970952380952381,0.9707254379284082,205,reports\figs\VariantA_mean_minmax_confusion_matrix.png,reports\results\VariantA_mean_minmax_knn_k3_model.pkl
+VariantB_median_standard,3,0.926829268292683,0.9282296650717703,0.9261904761904762,0.926654740608229,205,reports\figs\VariantB_median_standard_confusion_matrix.png,reports\results\VariantB_median_standard_knn_k3_model.pkl
